@@ -1,0 +1,7 @@
+name = "mobilenet_ssdlite"
+uuid = "5aa81775-b7a7-477a-95a9-dd26baacbab5"
+authors = ["Karthik Katipally <kkatipally@umassd.edu>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
